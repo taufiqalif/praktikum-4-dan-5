@@ -1,4 +1,4 @@
-# TUGAS PRKTIKUM
+# TUGAS PRAKTIKUM
 
 ## List Nilai Mahasiswa
 
