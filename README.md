@@ -1,10 +1,10 @@
 # TUGAS PRAKTIKUM
 
 ## Membuat List Python
-    List adalah tipe data yang paling serbaguna yang tersedia dalam bahasa Python, 
-    yang dapat ditulis sebagai daftar nilai yang dipisahkan koma (item) antara tanda kurung siku
+    List adalah tipe data yang berisi satu atau beberapa nilai di dalamnya. Nilai – nilai ini sering juga
+    disebut item, elemen, atau anggota list. List dibuat dengan menempatkan  semua item di dalam tanda kurung
+    [ ], dipisahkan oleh tanda koma. Anggota list bisa berisi satu tipe data, atau campuran.
     
-    daftar adalah item dalam list tidak boleh sama jenisnya.
 
 ### List Nilai Mahasiswa
 
