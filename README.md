@@ -1,6 +1,12 @@
 # TUGAS PRAKTIKUM
 
-## List Nilai Mahasiswa
+## Membuat List Python
+    List adalah tipe data yang paling serbaguna yang tersedia dalam bahasa Python, 
+    yang dapat ditulis sebagai daftar nilai yang dipisahkan koma (item) antara tanda kurung siku
+    
+    daftar adalah item dalam list tidak boleh sama jenisnya.
+
+### List Nilai Mahasiswa
 
     Tugas Praktikum
     Buat program sederhana untuk menambahkan data kedalam sebuah
@@ -21,7 +27,7 @@
 
 ![output.png](/gambar/output.png)
 
-## Program Input Data
+### Program Input Data
 
     Tugas Praktikum
     Buat program sederhana yang akan menampilkan daftar nilai
